@@ -16,7 +16,7 @@
 
 ---
 
-Playground for demoing GDAL with Python
+Playground for demoing GIS libraries with Python
 
 ## Installation
 

@@ -1,4 +1,4 @@
-# GDAL playground
+# Python GIS library playground
 
 [![PyPI](https://img.shields.io/pypi/v/python-gis-playground?style=flat-square)](https://pypi.python.org/pypi/python-gis-playground/)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/python-gis-playground?style=flat-square)](https://pypi.python.org/pypi/python-gis-playground/)

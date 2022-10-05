@@ -1,0 +1,18 @@
+{
+  "template": "https://github.com/woltapp/wolt-python-package-cookiecutter",
+  "commit": "6669a067eeaaed3bee84312428a3e94cd13295f2",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "author_name": "Tommi Kärkäs",
+      "author_email": "tommikarkas@gmail.com",
+      "github_username": "tommikarkas",
+      "project_name": "GDAL playground",
+      "project_slug": "python-gis-playground",
+      "package_name": "python_gis_playground",
+      "project_short_description": "Playground for demoing GDAL with Python",
+      "_template": "https://github.com/woltapp/wolt-python-package-cookiecutter"
+    }
+  },
+  "directory": null
+}

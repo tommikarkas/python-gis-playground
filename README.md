@@ -29,7 +29,6 @@ pip install python-gis-playground
 * Clone this repository
 * Requirements:
   * [Poetry](https://python-poetry.org/)
-  * [GDAL](https://gdal.org/)
   * Python 3.7+
 * Create a virtual environment and install the dependencies
 
